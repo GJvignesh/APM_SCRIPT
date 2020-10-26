@@ -1,5 +1,9 @@
 #!/usr/bin/python
-
+"""
+Script made by Vignesh GJ (CECID : vgopalja)
+Language : Python 3.x
+Purpose : Add params to Wrapper settings of JVM instance for specific application
+"""
 
 import sys
 import os
